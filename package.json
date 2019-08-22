@@ -1,0 +1,24 @@
+{
+  "name": "developerpracticetestui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "antd": "^3.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvasquez8704/DeveloperPracticeTestUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvasquez8704/DeveloperPracticeTestUI/issues"
+  },
+  "homepage": "https://github.com/jvasquez8704/DeveloperPracticeTestUI#readme"
+}
